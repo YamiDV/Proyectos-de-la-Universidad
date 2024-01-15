@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875671049088",
+    "project_id": "android-video-call-d2959",
+    "storage_bucket": "android-video-call-d2959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875671049088:android:e3d0fc1118e9be79472765",
+        "android_client_info": {
+          "package_name": "com.unmsm.videocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLZGEwGo1r7dGP2B6IyEnNo5kJpgBpEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
