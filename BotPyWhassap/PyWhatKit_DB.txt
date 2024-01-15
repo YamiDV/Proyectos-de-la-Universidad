@@ -1,0 +1,60 @@
+Date: 2/12/2023
+Time: 13:35
+Phone Number: +51 926921038
+Message: Hola, ¡esto es un mensaje desde mi bot de WhatsApp!
+--------------------
+Date: 2/12/2023
+Time: 14:4
+Phone Number: +51 926921038
+Message: Hola, ¡esto es un mensaje desde mi bot de WhatsApp!
+--------------------
+Date: 3/12/2023
+Time: 1:8
+Phone Number: +51 926921038
+Message: Hola
+--------------------
+Date: 3/12/2023
+Time: 11:43
+Phone Number: +51 926921038
+Message: 123 Hola Yape 5
+--------------------
+Date: 3/12/2023
+Time: 12:4
+Phone Number: +51 926921038
+Message: 123 Hola Yape 5
+--------------------
+Date: 3/12/2023
+Time: 12:10
+Phone Number: +51 926921038
+Message: fecha mensaje persona monto 123 Hola Yape 5
+--------------------
+Date: 3/12/2023
+Time: 12:17
+Phone Number: +51 926921038
+Message: 123 Hola Yape 5
+--------------------
+Date: 3/12/2023
+Time: 13:17
+Phone Number: +51 926921038
+Message: 3/12/2023 13:15:37 Yape! ALEXANDER ANDREY QUIROZ PITA te envió un pago por S/ 1 ALEXANDER ANDREY QUIROZ PITA 1
+--------------------
+Date: 3/12/2023
+Time: 13:54
+Phone Number: +51 926921038
+Message: 
+--------------------
+Date: 3/12/2023
+Time: 14:4
+Phone Number: +51 926921038
+Message: 
+--------------------
+Date: 3/12/2023
+Time: 14:31
+Phone Number: +51 926921038
+Message: 3/12/2023 13:15:37 Yape! ALEXANDER ANDREY QUIROZ PITA te envió un pago por S/ 1 ALEXANDER ANDREY QUIROZ PITA 1
+--------------------
+Date: 3/12/2023
+Time: 22:46
+Phone Number: +51 926921038
+Message: 3/12/2023 22:27:26 Yape! PAUL HUAROC RICSE te envió un pago por S/ 0.1 PAUL HUAROC RICSE 0.1
+--------------------

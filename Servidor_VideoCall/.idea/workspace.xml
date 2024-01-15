@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78601b2a-daf4-4c99-8d59-44fc901ae6cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/server/call.html" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/server/call.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/server/call.js" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/server/call.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/server/peerjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/server/peerjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/android-video-call-app/videocallapp/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/android-video-call-app" />
+  </component>
+  <component name="ProjectId" id="2Y3bgqfO7mD6uXd3ICd3YODuw68" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/jamie/OneDrive/Escritorio/Video"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78601b2a-daf4-4c99-8d59-44fc901ae6cf" name="Changes" comment="" />
+      <created>1699757323624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699757323624</updated>
+    </task>
+    <servers />
+  </component>
+</project>

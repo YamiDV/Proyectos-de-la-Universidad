@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<!-- TOdo el quienes somos -->
+<div class="container py-5">
+    <div class="card mb-3 " width="100" >
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="{{ url_for('static', filename='img/somos.png') }}" class="img-fluid rounded-start" alt="...">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h2 class="card-title text-center">Constructora Condosa</h2>
+            <p class="card-text" >Constructora Condosa, se constituye en Enero del 2018 por la familia Ortiz Heerwagen en la ciudad de Concepción. Empresa familiar, 
+              ligada al rubro de la Construcción e Inmobiliario desde los años setenta, siendo Constructora e Inmobiliaria el Parque la última sociedad donde participó, 
+              desarrollando cerca de 20 proyectos inmobiliarios en el gran Concepción.</p>
+              <img class="text-center" src="{{ url_for('static', filename='img/condosab.jpg') }}" alt="" >
+              <p class="lead">Te invitamos a conocer nuestros<a href="{{url_for('index.index')}}" class="text-bg-secondary active"> Proyectos entregados.</a>
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container py-lg-5">
+
+  </div>
+  <div class="container py-2">
+
+  </div>
+  <!-- hasta aca el quien -->
+  {% endblock %}
